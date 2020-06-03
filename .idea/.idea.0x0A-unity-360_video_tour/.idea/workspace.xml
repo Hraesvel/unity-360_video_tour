@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="22648d97-7b73-4ede-bba1-1d8a03d02119" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/Cantina.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/Cube.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/LivingRoom.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Videos/Mezzanine.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Assets/Animators/CutsceneCamera.controller" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Assets/Animators/CutsceneCamera.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level2" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level3" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level4" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/level4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets0.resource" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets0.resource" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets1.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets2.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets2.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets3.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets3.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets4.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Linux/Platformer_Data/sharedassets4.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Platformer_Linux_x86_64.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Platformer_Linux_x86_64.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Platformer_Windows_x86_64.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Platformer_Windows_x86_64.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/globalgamemanagers.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/globalgamemanagers.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level1" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level2" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level3" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level4" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/level4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets0.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets0.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets0.resource" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets0.resource" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets1.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets1.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets2.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets2.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets3.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets3.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets4.assets" beforeDir="false" afterPath="$PROJECT_DIR$/../0x07-unity-animation/Builds/Windows/Platformer_Data/sharedassets4.assets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/BGM/Powerup.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/BGM/Powerup.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/SFX/birds.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/SFX/birds.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/SFX/crickets.mp3.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../0x08-unity-audio/Assets/Audio/SFX/crickets.mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../0x08-unity-audio/main_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/Cargo.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/bin-quickArchive" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/bin-quickArchive" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/bin-quickArchive.json" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/bin-quickArchive.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/output" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/.fingerprint/quickArchive-bcc050b2642b9bf4/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/deps/quickArchive.d" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/deps/quickArchive.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/deps/quickArchive.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/deps/quickArchive.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/10mgcp2kw8ynrmdd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/144jsclrto0410d3.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/14imp2ismpbbp5q9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/18mnxtsfiavrheel.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1auqjxh60unx43te.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1cz8nfhig5grqhrr.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1ejhsss70u4epyx1.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1eyongvdbwswrbqm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1f4ubhen3kjivj4x.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1k63xoze49nd9o7y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1oplpwilbwfpwhvk.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1pg1i30g2qh243q8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1v0cpo0z117qdbdu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1v1k6ovib70jiha6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1vzffawv237e9ti8.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/1zj98o7zsrk7xz5p.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/26to1w8jki11nfae.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2eaw6sobi6n8wgne.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2iv7egm1x750nvvn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2kwvk4gv7ut9wkbh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2m9cvj2bks3krc5g.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2oei72xqldguhlx2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2qqr4db9erxrxc6n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/2szbo15p9sefqjdp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3105j9c5wab2uuj9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/31bfxz6sz6fcdl74.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/375as1fdxlkvqzcx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/379xe57nosj4d1t0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/37rqa8f4cb1q3yvj.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3atsiqmapla4me4z.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3b2gq8tx2w5f8xgc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3bc8figpr7v0n4vd.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3e43plep421nk5ob.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3kpedvwdb6orw149.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3kt4hlzrypxue8e6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3kx4jvfoiyv9z8ev.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3lljmno2yqbh3het.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3n644jhmsdsuf8hx.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3np7b0q255007qmn.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3pvb44ougxamf5uu.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3rcvacy7fjzcud4o.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3ry23v9i2itspir9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3s6m5w3zxvmvpngo.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/3tzplkqv8oinlqc6.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/42ydryjgcdyeirzw.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/46pffqgl582ntrkh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/48trzfhoe26p2vpy.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/49qp8rauewkqkd47.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4es90k1bmk770dcl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4iyafnu6ozrreql0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4j1fw8oivij3b75e.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4j60frgs6sljtjnm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4tnb5n4kj0bkphbf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4tp9de8p0gjdpt0i.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4ugnb82jwcpijygl.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4y6idtpyaltzgcrz.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/4zruxgb97dztmj56.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/50b578pv5yv1yxvh.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/519cdceos711mekm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/55ggynee3tqvvo8r.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/58hau12u12cu0ltb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/5c02q50l5u9g3443.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/5c5btjsa954521mb.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/5czqq9rvycluq15t.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/5xmpkdz5hepswgm.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/8hysx1ir5yh8rp9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/bs7cadijamqe1h2.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/crmshtfnuhvdmw9.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/h1oenq5rkys532y.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/l6azrlulmw37vww.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/m4s2j4uo6lslc9g.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/noyd0t8i55r0re0.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/tdgg5rga0sp7fi5.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/y1f1zcgs2i6fzlf.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/yia049l8fq8hfro.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b-1xaqvvkuscbwq/zphxfdyrgx5tf3n.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/incremental/quickArchive-2ej8h659iobr3/s-fmrfx015ho-8c8n5b.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/quickArchive.d" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/quickArchive.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quickArchive/target/debug/quickArchive.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../quickArchive/target/debug/quickArchive.exe" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIActions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Transition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RayInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Setup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AboutToggle.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UiActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Transition.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Setup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIActions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AboutToggle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RayInput.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cbxB0OFu5z026CoBENx5atofun" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="22648d97-7b73-4ede-bba1-1d8a03d02119" name="Default Changelist" comment="" />
+      <created>1590810956620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590810956620</updated>
+      <workItem from="1590810961634" duration="5874000" />
+      <workItem from="1590829978902" duration="40854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="227" y="388" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1590890366057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="227" y="388" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1040@0.0.1920.1040" timestamp="1590890366057" />
+  </component>
+</project>
