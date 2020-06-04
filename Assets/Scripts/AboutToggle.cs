@@ -10,9 +10,11 @@ public class AboutToggle : MonoBehaviour
     private void Start()
     {
         panel = transform.GetChild(0).gameObject;
+        if (panel.activeSelf)
+            panel.SetActive(false);
     }
 
-    public void toggleAboutPanel()
+    public void ToggleAboutPanel()
     {
           panel.SetActive(!panel.activeSelf);
     }

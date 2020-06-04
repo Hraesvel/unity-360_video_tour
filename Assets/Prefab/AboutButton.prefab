@@ -346,7 +346,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 2987126254484910837}
-        m_MethodName: toggleAboutPanel
+        m_MethodName: ToggleAboutPanel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
