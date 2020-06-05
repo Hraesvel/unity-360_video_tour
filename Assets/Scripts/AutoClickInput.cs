@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.UI;
+using UnityEngine.Experimental.UIElements;
+using Slider = UnityEngine.UI.Slider;
 
-public class AutoClickInput : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler
+public class AutoClickInput : MonoBehaviour, IPointerEnterHandler, IPointerExitHandler, IPointerClickHandler, IPointerUpHandler, IPointerDownHandler
 {
     public float ChannelTime = 5f;
     public float ProgressRate = 1f;
@@ -63,6 +64,18 @@ public class AutoClickInput : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 
         advancing = false;
     }
+    
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        Debug.Log("hard reset");
+
+        advancing = false;
+        retreating = false;
+        progressBar.value = 0f;
+        incraseRoutin = AddProgress(ProgressRate / ChannelTime);
+        decraseRoutin = DecreaseProgress(ProgressRate * RegressRate / ChannelTime);
+    }
+    
 
     private IEnumerator DecreaseProgress(float amount)
     {
@@ -81,14 +94,15 @@ public class AutoClickInput : MonoBehaviour, IPointerEnterHandler, IPointerExitH
         progressBar.gameObject.SetActive(false);
     }
 
-    public void OnPointerClick(PointerEventData eventData)
-    {
-        Debug.Log("hard reset");
 
-        advancing = false;
-        retreating = false;
-        progressBar.value = 0f;
-        incraseRoutin = AddProgress(ProgressRate / ChannelTime);
-        decraseRoutin = DecreaseProgress(ProgressRate * RegressRate / ChannelTime);
+    public void OnPointerUp(PointerEventData eventData)
+    {
+        Debug.Log("trigger up");
+    }
+
+    public void OnPointerDown(PointerEventData eventData)
+    {
+        Debug.Log("trigger down");
+
     }
 }
