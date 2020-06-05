@@ -28,30 +28,6 @@
                     "isComposite": false,
                     "isPartOfComposite": false,
                     "modifiers": ""
-                },
-                {
-                    "name": "",
-                    "path": "<GearVRTrackedController>/touchpadClicked",
-                    "interactions": "Press",
-                    "processors": "",
-                    "groups": "",
-                    "action": "A",
-                    "chainWithPrevious": false,
-                    "isComposite": false,
-                    "isPartOfComposite": false,
-                    "modifiers": ""
-                },
-                {
-                    "name": "",
-                    "path": "<DaydreamController>/touchpadClicked",
-                    "interactions": "Press",
-                    "processors": "",
-                    "groups": "",
-                    "action": "A",
-                    "chainWithPrevious": false,
-                    "isComposite": false,
-                    "isPartOfComposite": false,
-                    "modifiers": ""
                 }
             ]
         }
