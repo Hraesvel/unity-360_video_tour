@@ -1,26 +1,23 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Transition : MonoBehaviour
 {
-
-    private bool _move;
-    public bool Move { get=> _move; }
+    public bool Move { get; private set; }
 
     private void Start()
     {
-        _move = false;
+        Move = false;
     }
-    
+
     public bool FadeInFinish()
     {
-        if (!_move)
-            _move = true;
-        return _move;
+        if (!Move)
+            Move = true;
+        return Move;
     }
 
     public void FadeOutStart()
     {
-        _move = false;
+        Move = false;
     }
 }

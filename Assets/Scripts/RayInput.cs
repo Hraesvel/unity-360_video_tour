@@ -1,22 +1,21 @@
-﻿using System;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.Experimental.Input;
 using UnityEngine.XR;
 
 public class RayInput : MonoBehaviour
 {
-    public float RayDistancce = 100f;
+    private bool _aAction;
 
-    [SerializeField] private Controls ctrl;
-    [SerializeField] private bool drawDebugLine;
-    [SerializeField] private LayerMask uiLayerMask;
-    
 
     private Ray _ray;
     private RaycastHit _rayHit;
+
+    [SerializeField] private Controls ctrl;
+    [SerializeField] private bool drawDebugLine;
     private PointerEventData eventData;
-    private bool _aAction;
+    public float RayDistancce = 100f;
+    [SerializeField] private LayerMask uiLayerMask;
 
 
     private void Awake()
@@ -25,15 +24,16 @@ public class RayInput : MonoBehaviour
         ctrl.BasicCtrl.A.cancelled += stop => AOnCancel();
         _aAction = false;
     }
+
     private void AOnperformed()
     {
-        Debug.Log("PRESS");
+        Debug.Log("A on");
         _aAction = true;
     }
 
     private void AOnCancel()
     {
-        Debug.Log("RELEASE");
+        Debug.Log("A off");
         _aAction = false;
     }
 
@@ -55,6 +55,8 @@ public class RayInput : MonoBehaviour
         }
 
         eventData.pressPosition = eventData.position;
+
+        var rHandInputs = new List<InputDevice>();
     }
 
     // Update is called once per frame
@@ -83,9 +85,7 @@ public class RayInput : MonoBehaviour
         eventData.pointerCurrentRaycast = ConvertRayCastHitToRaycastResult(_rayHit);
 
         if (eventData.pointerEnter == _rayHit.transform.gameObject)
-        {
             return;
-        }
 
         LookAway();
 
@@ -95,7 +95,7 @@ public class RayInput : MonoBehaviour
 
     private RaycastResult ConvertRayCastHitToRaycastResult(RaycastHit hit)
     {
-        RaycastResult rayResult = new RaycastResult();
+        var rayResult = new RaycastResult();
         rayResult.gameObject = hit.transform.gameObject;
         rayResult.distance = _rayHit.distance;
         rayResult.worldPosition = _rayHit.point;
@@ -114,17 +114,22 @@ public class RayInput : MonoBehaviour
         }
         else if (!_aAction)
         {
+            if (AntiSpamSingleton.Instance.IsTransitioning)
+                return;
+
             if (eventData.pointerPress != null)
                 ExecuteEvents.ExecuteHierarchy(eventData.pointerPress, eventData, ExecuteEvents.pointerUpHandler);
 
-            if (eventData.pointerPress == eventData.pointerEnter)
+            if (eventData.pointerPress == eventData.pointerEnter && eventData.pointerPress != null &&
+                eventData.pointerEnter != null)
                 ExecuteEvents.ExecuteHierarchy(eventData.pointerEnter, eventData, ExecuteEvents.pointerClickHandler);
+
 
             eventData.pointerPress = null;
         }
     }
 
-    void LookAway()
+    private void LookAway()
     {
         if (eventData.pointerEnter != null)
         {
@@ -142,6 +147,4 @@ public class RayInput : MonoBehaviour
     {
         ctrl.Disable();
     }
-
- 
 }

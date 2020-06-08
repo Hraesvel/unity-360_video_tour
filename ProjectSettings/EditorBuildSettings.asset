@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/360VideoTour.unity
     guid: f86d0808b2209f346ab3f94177ba717d
+  - enabled: 0
+    path: Assets/Scenes/360VideoTour_Quest.unity
+    guid: f61817f8762cfe94c979467f59893f0e
+  - enabled: 0
+    path: Assets/Scenes/360VideoTour_Gaze.unity
+    guid: d2e0ebba90a05314388c6a77d01927d8
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: c89b3bcb9bd1ee746a8a7b8d127f3d28,
       type: 2}

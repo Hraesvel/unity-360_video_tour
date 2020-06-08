@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AboutToggle : MonoBehaviour
 {
@@ -16,6 +13,6 @@ public class AboutToggle : MonoBehaviour
 
     public void ToggleAboutPanel()
     {
-          panel.SetActive(!panel.activeSelf);
+        panel.SetActive(!panel.activeSelf);
     }
 }

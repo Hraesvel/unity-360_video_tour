@@ -14,6 +14,11 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="AboutToggle.cs" t="Include" />
+          <e p="AntiSpam.cs" t="Include" />
+          <e p="AntiSpamSingleton.cs" t="Include" />
+          <e p="AutoClickInput.cs" t="Include" />
+          <e p="DeviceDetect.cs" t="Include" />
+          <e p="PrimaryInput.cs" t="Include" />
           <e p="RayInput.cs" t="Include" />
           <e p="Setup.cs" t="Include" />
           <e p="Transition.cs" t="Include" />
